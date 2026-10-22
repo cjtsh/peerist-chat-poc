@@ -71,3 +71,12 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+
+## Legal and project status
+
+This is an **abandoned, pre-release proof of concept**. It is not supported or intended for production, privacy-sensitive, financial, safety-critical, or other mission-critical use.
+
+The source is released under the [MIT License](LICENSE). The project-specific [disclaimer](DISCLAIMER.md) supplements that license where valid and enforceable. The canonical Bitseeker LLC disclaimer, including current Wyoming governing-law language, is pinned at [software-disclaimer v1.2.2](https://github.com/cjtsh/software-disclaimer/releases/tag/v1.2.2).
+
+Adding these files does not change the application runtime or require a code rebuild. Existing release archives may not contain the new legal files.
